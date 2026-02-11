@@ -3,4 +3,6 @@ def add_numbers(a, b):
 
 # Example usage
 result = add_numbers(5, 3)
-print(result)  # Output: 8
+print(result)  # Output: 8git
+print("hello world")
+print("This is a git project.")
